@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me foteini.moustaki@gmail.com
-- Οι πόροι πυ κατατίθενται αποτελούν προσωπική μου εργασία
+- Οι πόροι που κατατίθενται στο ΙΕΠ αποτελούν προσωπική μου εργασία
 
 <!---
 FoteiniMoustaki/FoteiniMoustaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
