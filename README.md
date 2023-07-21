@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FoteiniMoustaki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me foteini.moustaki@gmail.com
-- Οι πόροι που κατατίθενται στο ΙΕΠ αποτελούν προσωπική μου εργασία
+- Οι πόροι που κατατίθενται στο ΙΕΠ αποτελούν προσωπική μου εργασία - χρησιμοποιήθηκε εκτενώς εργαλεία της e-me με σκοπό τη δημιουργία πόρων. Η άδειά τους είναι Share alike 4.0
+
+
 
 <!---
 FoteiniMoustaki/FoteiniMoustaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
