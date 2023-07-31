@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FoteiniMoustaki
 
 - 📫 How to reach me foteini.moustaki@gmail.com
-- Οι πόροι που κατατίθενται στο ΙΕΠ αποτελούν προσωπική μου εργασία - χρησιμοποιήθηκε εκτενώς εργαλεία της e-me με σκοπό τη δημιουργία πόρων. Η άδειά τους είναι Share alike 4.0
+- Οι πόροι που κατατίθενται στο ΙΕΠ αποτελούν προσωπική μου εργασία - χρησιμοποιήθηκε εκτενώς εργαλεία της e-me με σκοπό τη δημιουργία πόρων. Η άδειά τους είναι Share alike 4.0. 
 - Πόρος 1: Drill and Practice
 - https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1279957
 Παρακαλώ δείτε τα *.h5p αρχεία που έχω ανεβάσει στο repository (b4fb261462f85b714d7bf9dbd00c9cf4-1279957-2.h5p)- Το link που παρατίθεται δεν απαιτεί log in στην e-me. Είναι standalone, τρέχει με copy paste σε οποιονδήποτε browser. Ο πόρος έχει δημιουργηθεί με αδεια Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Ενσωματώνεται σε οποιαδήποτε σελίδα μέσω του <iframe src="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1279957" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://content.e-me.edu.gr/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -19,7 +19,7 @@
 
 - Πόρος 4: Εκπαιδευτικό παιχνίδι
 - https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1280338
-Παρακαλώ δείτε τα *.h5p αρχεία που έχω ανεβάσει στο repository (.h5p)- Το link που παρατίθεται δεν απαιτεί log in στην e-me. Είναι standalone, τρέχει με copy paste σε οποιονδήποτε browser. Ο πόρος έχει δημιουργηθεί με αδεια Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Ενσωματώνεται σε οποιαδήποτε σελίδα μέσω του <iframe src="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1280338" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://content.e-me.edu.gr/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+Παρακαλώ δείτε τα *.h5p αρχεία που έχω ανεβάσει στο repository (db32ec6802fcff3bfe1c7a6b600411d5-1280338-2.h5p)- Το link που παρατίθεται δεν απαιτεί log in στην e-me. Είναι standalone, τρέχει με copy paste σε οποιονδήποτε browser. Ο πόρος έχει δημιουργηθεί με αδεια Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Ενσωματώνεται σε οποιαδήποτε σελίδα μέσω του <iframe src="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1280338" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://content.e-me.edu.gr/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <!---
 FoteiniMoustaki/FoteiniMoustaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
