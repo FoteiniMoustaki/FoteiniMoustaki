@@ -19,7 +19,7 @@
 
 - Πόρος 4: Εκπαιδευτικό παιχνίδι
 - https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1280338
-- 
+Παρακαλώ δείτε τα *.h5p αρχεία που έχω ανεβάσει στο repository (.h5p)- Το link που παρατίθεται δεν απαιτεί log in στην e-me. Είναι standalone, τρέχει με copy paste σε οποιονδήποτε browser. Ο πόρος έχει δημιουργηθεί με αδεια Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Ενσωματώνεται σε οποιαδήποτε σελίδα μέσω του <iframe src="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1280338" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://content.e-me.edu.gr/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <!---
 FoteiniMoustaki/FoteiniMoustaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
